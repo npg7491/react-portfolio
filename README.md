@@ -56,7 +56,4 @@ To run this project locally for a closer look at the code:
 ---
 
 ## Author
-Ninoska Peralta Guzman
-Ninoska P. Guzman
-* [GitHub Profile URL]
-* [LinkedIn Profile URL]
+Ninoska Peralta 
